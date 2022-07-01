@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @georgekeeling
+- 👀 I’m interested in visual basic, c#, visual studio
+- 🌱 I’m currently learning writing a Word add in by cinverting old VBA code to CB
+- 📫 How to reach me: Send me a message on github? (I dont really know, I'm new)
